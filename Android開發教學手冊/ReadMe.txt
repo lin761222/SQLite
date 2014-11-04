@@ -1,4 +1,4 @@
-�w��ĤK��SQLite�d�ҹ�@
-1.�s�W
-2.Like�d��
-3.�d�߫�e�{���
+﻿針對第八章SQLite範例實作
+1.新增
+2.Like查詢
+3.查詢後呈現資料
